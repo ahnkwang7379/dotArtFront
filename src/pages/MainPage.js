@@ -14,8 +14,8 @@ const MainPage = () => {
       <Helmet>
         <title>DOTART</title>
       </Helmet>
-      <Route path={['/', '/@:username']} component={CommunityPage} exact />
-      <Route path="/dot" component={DotArtPage} />
+      {/* <Route path={['/', '/@:username']} component={CommunityPage} exact /> */}
+      <Route path="/" component={DotArtPage} />
       <Route path={'/@:username/:dotArtId'} component={DotArtViewPage} />
       <Route path="/login" component={LoginPage} />
       <Route path="/signup" component={SignUpPage} />
