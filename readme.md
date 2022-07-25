@@ -11,7 +11,7 @@
 CSS의 box-shadow를 이용해 도트 그림을 표현할 수 있습니다.
 또한 여러 프레임을 CSS animation과 keyframes를 이용하여 하나의 애니메이션으로 만들 수 있죠.
 
-귀여운 젤리가 그려진 데모 사이트 [직접 해보러 가기](https://dotart-35df2.firebaseapp.com/dot) :pencil2:
+귀여운 젤리가 그려진 데모 사이트 [직접 해보러 가기](https://dotart-35df2.firebaseapp.com) :pencil2:
 
 <p align="center"> 
   <img src="./screenshots/dotArt.png" width="600px"/> 
