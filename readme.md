@@ -34,6 +34,12 @@ move 툴은 일반 이동과 wrap모드 이동이 가능합니다.
   <img src="./screenshots/moveWrap.gif" width="100px"/>
 </p>
 
+
+그리고 redo undo 기능을 제공합니다.
+
+  ![image](https://github.com/user-attachments/assets/020608b3-fba9-4c1e-8cd0-73a4cb36adc8)
+
+  
 ---
 
 ## Layer
