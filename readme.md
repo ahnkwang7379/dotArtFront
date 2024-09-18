@@ -102,7 +102,7 @@ localStorage에 세이브 / 로드가 가능합니다.
 
 ### JSON file 다운로드
 
-[예시 보러가기](https://github.com/ahnkwang7379/dotArt/blob/master/screenshots/jellyppi.dotart)
+[예시 보러가기](https://github.com/ahnkwang7379/dotArtFront/blob/master/screenshots/jellyppi.dotart)
 
 자신의 dotArt를 JSON 형식으로 다운로드 받을 수 있으며 (.dotart 파일로 다운로드 됩니다) 다른 곳에서 import해 작업을 이어나갈 수 있습니다.
 
