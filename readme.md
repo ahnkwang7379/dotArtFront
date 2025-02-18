@@ -34,6 +34,12 @@ move 툴은 일반 이동과 wrap모드 이동이 가능합니다.
   <img src="./screenshots/moveWrap.gif" width="100px"/>
 </p>
 
+
+그리고 redo undo 기능을 제공합니다.
+
+  ![image](https://github.com/user-attachments/assets/020608b3-fba9-4c1e-8cd0-73a4cb36adc8)
+
+  
 ---
 
 ## Layer
@@ -102,7 +108,7 @@ localStorage에 세이브 / 로드가 가능합니다.
 
 ### JSON file 다운로드
 
-[예시 보러가기](https://github.com/ahnkwang7379/dotArt/blob/master/screenshots/jellyppi.dotart)
+[예시 보러가기](https://github.com/ahnkwang7379/dotArtFront/blob/master/screenshots/jellyppi.dotart)
 
 자신의 dotArt를 JSON 형식으로 다운로드 받을 수 있으며 (.dotart 파일로 다운로드 됩니다) 다른 곳에서 import해 작업을 이어나갈 수 있습니다.
 
@@ -123,12 +129,6 @@ localStorage에 세이브 / 로드가 가능합니다.
 [material-ui](https://material-ui.com/) : material 디자인 프레임워크. input, modal, slider 등 일부분 사용했습니다.
 
 [immer](https://immerjs.github.io/immer/docs/introduction) : 불변성 + 코드 가독성을 위해 적용. 퍼포먼스가 필요한 부분에는 사용하지 않음
-
-[node.js](https://nodejs.org/ko/) : 자바스크립트 런타임
-
-[koa](https://www.npmjs.com/package/koa) : node.js 프레임워크 중 koa를 채택
-
-[mongoDB](https://www.mongodb.com/) : mongoDB Altas를 이용해 계정과 도트게시판 데이터를 저장 중입니다.
 
 [google cloud](https://cloud.google.com/gcp) : 간편한 초기 설정과 배포로 빠르게 적용 가능한 구글 클라우드를 사용했습니다.
 
