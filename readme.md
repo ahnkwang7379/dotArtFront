@@ -34,12 +34,10 @@ move 툴은 일반 이동과 wrap모드 이동이 가능합니다.
   <img src="./screenshots/moveWrap.gif" width="100px"/>
 </p>
 
-
 그리고 redo undo 기능을 제공합니다.
 
-  ![image](https://github.com/user-attachments/assets/020608b3-fba9-4c1e-8cd0-73a4cb36adc8)
+![image](https://github.com/user-attachments/assets/020608b3-fba9-4c1e-8cd0-73a4cb36adc8)
 
-  
 ---
 
 ## Layer
@@ -129,8 +127,6 @@ localStorage에 세이브 / 로드가 가능합니다.
 [material-ui](https://material-ui.com/) : material 디자인 프레임워크. input, modal, slider 등 일부분 사용했습니다.
 
 [immer](https://immerjs.github.io/immer/docs/introduction) : 불변성 + 코드 가독성을 위해 적용. 퍼포먼스가 필요한 부분에는 사용하지 않음
-
-[google cloud](https://cloud.google.com/gcp) : 간편한 초기 설정과 배포로 빠르게 적용 가능한 구글 클라우드를 사용했습니다.
 
 # 구현 방식
 
