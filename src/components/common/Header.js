@@ -53,7 +53,7 @@ const HeaderBlocks = React.memo(({ user, onLogout }) => {
               <Link to="/dot">go Editor</Link>
             </Button>
           </div>
-          {user ? (
+          {/* {user ? (
             <div className="right">
               <UserInfo>{user.username}</UserInfo>
               <Button onClick={onLogout}>로그아웃</Button>
@@ -62,7 +62,7 @@ const HeaderBlocks = React.memo(({ user, onLogout }) => {
             <div className="right">
               <Button to="/login">로그인</Button>
             </div>
-          )}
+          )} */}
         </Wrapper>
       </HeaderBlock>
       <Spacer />
